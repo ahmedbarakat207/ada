@@ -39,7 +39,7 @@ void run_cli(const char *program, char **args) {
         return;
     }
      while (1) {
-        ptrace(PTRACE_SYSCALL, child_pid, 0, 0);
+        /*ptrace(PTRACE_SYSCALL, child_pid, 0, 0);
         waitpid(child_pid, &status, 0); 
         if (WIFSTOPPED(status)) {
             int sig = WSTOPSIG(status);
@@ -59,7 +59,7 @@ void run_cli(const char *program, char **args) {
         if (WIFEXITED(status)) {
             printf("Child exited\n");
             break;
-        }
+        }*/
         char command[128];
         printf("Debugger> ");
         fflush(stdout);
@@ -72,7 +72,7 @@ void run_cli(const char *program, char **args) {
                 set_breakpoint(breakpoint_addr); 
             }
             ptrace(PTRACE_CONT, child_pid, 0, 0);
-        } else if (strncmp(command, "step", 4) == 0 || strncmp(command, "s ", 2) == 0) {
+        } else if (strncmp(command, "step\n", 4) == 0 || strncmp(command, "s\n", 2) == 0) {
 
             // this is a shitty way of typing this code but i am not touching this shit
             long steps = 1;

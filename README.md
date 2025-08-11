@@ -1,2 +1,14 @@
 # ada
-a simple linux c debugger and disassembler made in C
+
+   █████████   ██████████     █████████  
+  ███░░░░░███ ░░███░░░░███   ███░░░░░███ 
+ ░███    ░███  ░███   ░░███ ░███    ░███ 
+ ░███████████  ░███    ░███ ░███████████ 
+ ░███░░░░░███  ░███    ░███ ░███░░░░░███ 
+ ░███    ░███  ░███    ███  ░███    ░███ 
+ █████   █████ ██████████   █████   █████
+░░░░░   ░░░░░ ░░░░░░░░░░   ░░░░░   ░░░░░ 
+
+a Simple linux C Debugger and Disassembler Made in C
+
+made it for absolutely no f#king reason other than just aura farming

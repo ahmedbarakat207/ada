@@ -1,13 +1,13 @@
 # ada
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████████&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████████&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████████ <br>
-&nbsp;&nbsp;&nbsp;&nbsp;███░░░░░███&nbsp;&nbsp;░░███░░░░███&nbsp;&nbsp;&nbsp;███░░░░░███ <br>
-&nbsp;░███    ░███  ░███   ░░███ ░███    ░███ <br>
-&nbsp;░███████████  ░███    ░███ ░███████████ <br>
-&nbsp;░███░░░░░███  ░███    ░███ ░███░░░░░███ <br>
-&nbsp;░███    ░███  ░███    ███  ░███    ░███ <br>
-&nbsp;█████   █████ ██████████   █████   █████ <br>
- ░░░░░   ░░░░░ ░░░░░░░░░░   ░░░░░   ░░░░░ <br>
+&nbsp;&nbsp;&nbsp;█████████&nbsp;&nbsp;&nbsp;██████████&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████████&nbsp;&nbsp;
+&nbsp;&nbsp;███░░░░░███&nbsp;░░███░░░░███&nbsp;&nbsp;&nbsp;███░░░░░███&nbsp;
+&nbsp;░███&nbsp;&nbsp;&nbsp;&nbsp;░███&nbsp;&nbsp;░███&nbsp;&nbsp;&nbsp;░░███&nbsp;░███&nbsp;&nbsp;&nbsp;&nbsp;░███&nbsp;
+&nbsp;░███████████&nbsp;&nbsp;░███&nbsp;&nbsp;&nbsp;&nbsp;░███&nbsp;░███████████&nbsp;
+&nbsp;░███░░░░░███&nbsp;&nbsp;░███&nbsp;&nbsp;&nbsp;&nbsp;░███&nbsp;░███░░░░░███&nbsp;
+&nbsp;░███&nbsp;&nbsp;&nbsp;&nbsp;░███&nbsp;&nbsp;░███&nbsp;&nbsp;&nbsp;&nbsp;███&nbsp;&nbsp;░███&nbsp;&nbsp;&nbsp;&nbsp;░███&nbsp;
+&nbsp;█████&nbsp;&nbsp;&nbsp;█████&nbsp;██████████&nbsp;&nbsp;&nbsp;█████&nbsp;&nbsp;&nbsp;█████
+░░░░░&nbsp;&nbsp;&nbsp;░░░░░&nbsp;░░░░░░░░░░&nbsp;&nbsp;&nbsp;░░░░░&nbsp;&nbsp;&nbsp;░░░░░&nbsp;
 
 a Simple linux C Debugger and Disassembler Made in C
 
